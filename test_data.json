@@ -1,0 +1,6 @@
+[
+    {"apt_number": 1, "residents": 2, "rooms_count": 2, "room_areas": [15.5, 12.0]},
+    {"apt_number": 2, "residents": 4, "rooms_count": 3, "room_areas": [18.0, 14.5, 10.2]},
+    {"apt_number": 3, "residents": 1, "rooms_count": 1, "room_areas": [25.0]},
+    {"apt_number": 4, "residents": 5, "rooms_count": 4, "room_areas": [20.0, 15.0, 12.0, 10.0]}
+]
